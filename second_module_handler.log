@@ -1,0 +1,4 @@
+2021-07-20 02:48:56,081 [second_module.py:16] :   DEBUG: logging debug second module: __main__
+2021-07-20 02:48:56,082 [second_module.py:17] :    INFO: logging info second module: __main__
+[second_module.py:16] :   DEBUG: logging debug second module: __main__
+[second_module.py:17] :    INFO: logging info second module: __main__

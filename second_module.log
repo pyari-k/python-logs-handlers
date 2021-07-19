@@ -1,0 +1,6 @@
+2021-07-20 02:31:22,685 [second_module.py:8] :   DEBUG: logging debug second module: root
+2021-07-20 02:31:22,685 [second_module.py:9] :    INFO: logging info second module: root
+2021-07-20 02:32:20,066 [second_module.py:9] :   DEBUG: logging debug second module: __main__
+2021-07-20 02:32:20,066 [second_module.py:10] :    INFO: logging info second module: __main__
+2021-07-20 02:48:40,350 [second_module.py:16] :   DEBUG: logging debug second module: __main__
+2021-07-20 02:48:40,352 [second_module.py:17] :    INFO: logging info second module: __main__
